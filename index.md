@@ -1,4 +1,5 @@
 ---
+Title: "I love Chaim"
 Blog: "Yannis is the sexyest man alive"
 ---
 
